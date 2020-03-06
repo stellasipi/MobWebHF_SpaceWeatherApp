@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SpaceWeatherApp</string>
+    <string name="back_to_calendar">Back to calendar</string>
+    <string name="start_time">Start Time</string>
+    <string name="catalog">Catalog</string>
+    <string name="activity_id">Activity ID</string>
+    <string name="cme_analyses">CME Analyses</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="speed">Speed</string>
+    <string name="type">Type</string>
+    <string name="note">Note</string>
+</resources>
